@@ -1,0 +1,7 @@
+# Governed Execution Proof
+
+This is a harmless demonstration file.
+
+Principle: AI agents may suggest changes, but a human must review and approve before any execution or merge.
+
+Status: Proposal only. No action taken.
